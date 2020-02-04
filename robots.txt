@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahdaejiesh.ericwillems.com/sitemap.xml
